@@ -1,0 +1,30 @@
+body{
+    font: 20px arial,sans-serif;
+}
+.navbar{
+    background-color: #836FFF;
+}
+.quem-somos{
+    background-color: #D3D3D3;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.parceiros{
+    background-color: #40E0D0;
+    color: white;
+}
+.nav-item{
+    font-size: 20px;
+}
+.contacts_list{
+    list-style-type: none;
+    padding-left: 10px;
+}
+.servicos{
+    background-color: #D3D3D3;
+}
+.contato{
+     background-color: #40E0D0;
+}
